@@ -3,3 +3,9 @@
 
 # build files
 build/
+cmake-build-debug/
+
+# Clion files
+.idea/
+
+output.txt
